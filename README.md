@@ -2,7 +2,7 @@
 
 ```
 cd include/plugins
-git clone https://github.com/amtuannguyen/osticket-auth-pyork.git auth-pyork
+git clone https://github.com/yorkulibraries/osticket-auth-pyork.git
 ```
 
 Complete the configuration in osTicket Admin panel. 
